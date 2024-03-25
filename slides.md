@@ -54,7 +54,7 @@ Im Master ähnliche Situation → wahlkabine.at
 layout: center
 ---
 
-<Tweet id="904748809644859392" />
+<img src="/Tagespresse.png" width="300">
 
 <!--
 Ich habe nichts mit den Zugewinnen der KPÖ in der Steiermark und Salzburg zu tun
@@ -62,7 +62,7 @@ Ich habe nichts mit den Zugewinnen der KPÖ in der Steiermark und Salzburg zu tu
 
 ---
 layout: image-left
-image: /page-old.png
+image: page-old.png
 transition: slide-left
 ---
 
@@ -72,7 +72,7 @@ transition: slide-left
 
 established 2002
 
-<img v-click src="/questionnaire%20old.PNG" style="width:400px">
+<img v-click src="/questionnaire%20old.png" style="width:400px">
 <img v-click style="width: 3em; margin: -7em auto 0 auto" src="/loading.gif">
 
 <!--
@@ -92,12 +92,11 @@ Aufgabe klar: Features, Resourcen (2 Entwickler ein schwacher Server), Deadline 
 
 ---
 layout: image
-image: /kurz.jpg
+image: kurz.jpg
 transition: slide-left
 ---
 
 <!--
-Nicht nur die Wahlkabine wird neu, auch in der Volkspartei tut sich was
 
 Vorverlegt von der Volkspartei
 
@@ -106,7 +105,7 @@ Vorverlegt von der Volkspartei
 
 ---
 layout: image-right
-image: /page-new.png
+image: page-new.png
 transition: slide-left
 ---
 
@@ -134,14 +133,8 @@ Politisches Spektrum, nicht zuordnen, bis...
 
 ---
 layout: image-center
-image: /Farbschema im Vergleich.png
+image: farbschema.png
 ---
-
-<!--
-Wieder diese eine Partei dazwischenfunkt
-
-das war der letzte Seitenhieb auf die ÖVP für diesen Vortrag
--->
 
 ---
 layout: center
@@ -164,8 +157,6 @@ Reden wir endlich über performance
 
 Was muss man in eine Webseite einbauen, damit sie schneller wird?
 
-Wieviel ist 11²?
-
 Richtige Frage: Was muss man ausbauen? | Was kann man reduzieren?
 
 Berechne nur was absolut nötig ist
@@ -185,7 +176,7 @@ layout: center
 <img v-click src="/caching.jpg" width=500>
 
 <!--
-Zur Buildzeit ist besser als zur Laufzeit
+Zur Buildzeit ist besser als zur Laufzeit → 1 vs x mal
 
 Wieviel ist 11²?
 
@@ -303,7 +294,7 @@ Prerendering der Webseite (für Bots)
 
 ---
 layout: image
-image: /Preloading.png
+image: Preloading.png
 backgroundSize: contain
 transition: fade
 ---
@@ -369,13 +360,13 @@ layout: center
 
 # Loadtest
 
-<Tweet v-click id="904443522727727104" />
+<img v-click src="/Wolf.png" width="300">
 
 ---
 layout: center
 ---
 
-<img src="/per-minute.PNG">
+<img src="/per-minute.png">
 Questionaires started in September 2017
 
 <!--
